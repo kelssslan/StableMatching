@@ -3,7 +3,10 @@ This is a **optional** project I did in Algorithm Design and Analysis course.
 
 This program was created and tested using Python 3 on Google's colab platform. 
 
-The program can be run using terminal.
+
+**The program can be run using terminal.
+Navigate to the folder where the .py file is located
+open the .py file**
 
 The user inputs two integers in the format (n k ). Where n is the number of students and hospitals and k is number of possible rankings.
  
