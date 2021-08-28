@@ -1,7 +1,7 @@
 # StableMatching
 This is a **optional** project I did in Algorithm Design and Analysis course. 
 
-Aside from implementing the program, I was also required to observe the program's running time when changes to n and k were made. 
+Aside from implementing the program, I was also required to observe the program's running time when changes to n and k were made.
 
 This program was created and tested using Python 3 on Google's colab platform. 
 
