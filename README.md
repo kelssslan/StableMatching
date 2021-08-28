@@ -26,3 +26,5 @@ And inside Hospital 0's preference list [4, 2, 0, 1, 3] shows that Hospital 0 pr
 
 
 ![Screen Shot 2021-08-28 at 16 15 53](https://user-images.githubusercontent.com/66441548/131227860-c8c3376c-b58b-4d8a-88d7-d44b4532e348.png)
+
+Also notice that there are two results at the end of the output example. Different perspective and priorities create different results.
