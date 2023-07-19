@@ -1,5 +1,5 @@
 # StableMatching
-This is a **optional** project I did in Algorithm Design and Analysis course. 
+This is a **optional** project I did in Algorithm Design and Analysis
 
 Aside from implementing the program, I was also required to observe the program's running time when changes to n and k were made.
 
